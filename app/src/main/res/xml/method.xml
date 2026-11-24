@@ -1,0 +1,4 @@
+<input-method xmlns:android="http://schemas.android.com/apk/res/android">
+    <subtype android:label="Kurdish (Sorani)" android:imeSubtypeLocale="ckb"
+        android:imeSubtypeMode="keyboard" />
+</input-method>
